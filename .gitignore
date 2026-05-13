@@ -1,0 +1,7 @@
+# ClassFiles/
+Baseline/ClassFiles/**
+Optimised/ClassFiles/**
+
+.class
+.classpath
+.project
